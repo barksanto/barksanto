@@ -21,12 +21,7 @@
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: barkley.santo@gmail.com.
 
-<img 
-  align="right"
-  width="100"
-  height="100"
-  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"
-/>
+
 ***
 
 <!-- [![Barkleys's GitHub stats](https://github-readme-stats.vercel.app/api?username=barksanto)](https://github.com/barksanto/github-readme-stats) -->
