@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="[https://shwetang550.github.io/profile/](https://barkleysanto.com/)">Barkley!</a></h2>
+<h2 align="center">Hey , I'm Barkley!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/barkleysanto/">LinkedIn</a> •
   <a href="https://barkleysanto.com/">Portfolio</a> 
