@@ -16,8 +16,8 @@
 
 
 **About me:**
-- 👨🏽‍💻   I’m currently building on something cool :wink:.
-- 🌱  I’m currently learning React Native. 
+- 👨🏽‍💻   I’m currently building something cool :wink:.
+- 🌱  Also learning React Native. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: barkley.santo@gmail.com.
 
