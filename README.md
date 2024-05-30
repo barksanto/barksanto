@@ -27,17 +27,7 @@
 <!-- [![Barkleys's GitHub stats](https://github-readme-stats.vercel.app/api?username=barksanto)](https://github.com/barksanto/github-readme-stats) -->
  <br>
 
-<h3 align="center">📈 My Github stats </h3><br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barksanto&theme=dark&show_icons=true" alt="barksantoStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barksanto&layout=compact&theme=dark" alt="top-langs" />
-</p>
 
-*NOTE: "Most Used Languages" isn't a skill level indicator. This is a metric of the languages I use the most on GitHub. 
-
-<br>
 
 **Languages and Tools**
 
